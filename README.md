@@ -1,5 +1,7 @@
 # Careers At Opencast Software
 
+[Apply Now](mailto:careers@opencastsoftware.com) 
+
 ## Open Vacancies
 
 - [Cloud Engineer](/roles/cloud-engineer.md) 
